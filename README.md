@@ -1,4 +1,6 @@
 # Simple Data Cleaning and EDA using Pandas
-Process on cleaning the data until it can be distributed to conduct an analysis and calculations by using Pandas and Matplotlib.
+Process on cleaning the datasets until it can be distributed for further analysis. 
 
-To access further explanations, visit medium for this project here: https://medium.com/@abhi.abduh/data-cleaning-and-eda-project-abde1e2222f5
+Graphs were ssing external library such as Pandas and Matplotlib.
+
+To access further explanations of this project, visit medium URL: https://medium.com/@abhi.abduh/data-cleaning-and-eda-project-abde1e2222f5
