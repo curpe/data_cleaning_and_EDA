@@ -1,4 +1,4 @@
-# Simple Data Cleaning and EDA using Pandas
+# Explaratory Data Analysis & Sanitation 
 Process on cleaning the datasets until it can be distributed for further analysis. 
 
 Graphs were ssing external library such as Pandas and Matplotlib.
